@@ -1,0 +1,4329 @@
+fileFormatVersion: 2
+guid: e25bc65019bcf0c4aaf1b9a67af22691
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8969604283873581658
+    second: Tileset small WORLD_0
+  - first:
+      213: -6649534491783136941
+    second: Tileset small WORLD_1
+  - first:
+      213: -3378859778185818290
+    second: Tileset small WORLD_2
+  - first:
+      213: -3814344163031154339
+    second: Tileset small WORLD_3
+  - first:
+      213: -4394624045127969051
+    second: Tileset small WORLD_4
+  - first:
+      213: 2434598926875912085
+    second: Tileset small WORLD_5
+  - first:
+      213: 5769872678352027799
+    second: Tileset small WORLD_6
+  - first:
+      213: -2965251314732950985
+    second: Tileset small WORLD_7
+  - first:
+      213: 901841526080499636
+    second: Tileset small WORLD_8
+  - first:
+      213: -7114069400656076196
+    second: Tileset small WORLD_9
+  - first:
+      213: -6812882028555963845
+    second: Tileset small WORLD_10
+  - first:
+      213: 1575246091554892950
+    second: Tileset small WORLD_11
+  - first:
+      213: -3890893960716277877
+    second: Tileset small WORLD_12
+  - first:
+      213: 315301416355988921
+    second: Tileset small WORLD_13
+  - first:
+      213: 1411880477288527147
+    second: Tileset small WORLD_14
+  - first:
+      213: -5681477761438095717
+    second: Tileset small WORLD_15
+  - first:
+      213: -802168130693939660
+    second: Tileset small WORLD_16
+  - first:
+      213: -2569954149827469632
+    second: Tileset small WORLD_17
+  - first:
+      213: 4706517164283170153
+    second: Tileset small WORLD_18
+  - first:
+      213: 1633236932645401859
+    second: Tileset small WORLD_19
+  - first:
+      213: -2820991470146937840
+    second: Tileset small WORLD_20
+  - first:
+      213: -975390914876333639
+    second: Tileset small WORLD_21
+  - first:
+      213: 2277122472634743491
+    second: Tileset small WORLD_22
+  - first:
+      213: -7527409312564998925
+    second: Tileset small WORLD_23
+  - first:
+      213: -8789344342769883140
+    second: Tileset small WORLD_24
+  - first:
+      213: 5052314584031294972
+    second: Tileset small WORLD_25
+  - first:
+      213: -1448360694220538690
+    second: Tileset small WORLD_26
+  - first:
+      213: 7993180994858291261
+    second: Tileset small WORLD_27
+  - first:
+      213: 3432929707874699473
+    second: Tileset small WORLD_28
+  - first:
+      213: 4840060549525459979
+    second: Tileset small WORLD_29
+  - first:
+      213: -5915989928120500142
+    second: Tileset small WORLD_30
+  - first:
+      213: -6970180687278228715
+    second: Tileset small WORLD_31
+  - first:
+      213: 7564010411834153926
+    second: Tileset small WORLD_32
+  - first:
+      213: -2828346524331888886
+    second: Tileset small WORLD_33
+  - first:
+      213: 8892724226172715550
+    second: Tileset small WORLD_34
+  - first:
+      213: 1981103979343379158
+    second: Tileset small WORLD_35
+  - first:
+      213: -4466875602390573906
+    second: Tileset small WORLD_36
+  - first:
+      213: -4643883276962933191
+    second: Tileset small WORLD_37
+  - first:
+      213: -5989854963650855683
+    second: Tileset small WORLD_38
+  - first:
+      213: 308081302652719213
+    second: Tileset small WORLD_39
+  - first:
+      213: 1253225853062031916
+    second: Tileset small WORLD_40
+  - first:
+      213: -6863301266184227378
+    second: Tileset small WORLD_41
+  - first:
+      213: 1785949171171594889
+    second: Tileset small WORLD_42
+  - first:
+      213: 7519975781312441731
+    second: Tileset small WORLD_43
+  - first:
+      213: -113160842103816
+    second: Tileset small WORLD_44
+  - first:
+      213: -7192627499562508249
+    second: Tileset small WORLD_45
+  - first:
+      213: 4371547177360296514
+    second: Tileset small WORLD_46
+  - first:
+      213: -1077816482479281546
+    second: Tileset small WORLD_47
+  - first:
+      213: -3169555637950488839
+    second: Tileset small WORLD_48
+  - first:
+      213: -2100840288376499341
+    second: Tileset small WORLD_49
+  - first:
+      213: 221772279035248958
+    second: Tileset small WORLD_50
+  - first:
+      213: 6731519912181417808
+    second: Tileset small WORLD_51
+  - first:
+      213: -33518965450422131
+    second: Tileset small WORLD_52
+  - first:
+      213: -3187007127489185147
+    second: Tileset small WORLD_53
+  - first:
+      213: -8532424321868065638
+    second: Tileset small WORLD_54
+  - first:
+      213: -2244159965864528943
+    second: Tileset small WORLD_55
+  - first:
+      213: 2583082631324990759
+    second: Tileset small WORLD_56
+  - first:
+      213: -687485050152495701
+    second: Tileset small WORLD_57
+  - first:
+      213: 2302307973059607499
+    second: Tileset small WORLD_58
+  - first:
+      213: 9032974638771063470
+    second: Tileset small WORLD_59
+  - first:
+      213: 5420716619162347976
+    second: Tileset small WORLD_60
+  - first:
+      213: 8303739468554068380
+    second: Tileset small WORLD_61
+  - first:
+      213: -1290823110195312832
+    second: Tileset small WORLD_62
+  - first:
+      213: 2341179770507793483
+    second: Tileset small WORLD_63
+  - first:
+      213: -5601959433543456608
+    second: Tileset small WORLD_64
+  - first:
+      213: 7025670066757393671
+    second: Tileset small WORLD_65
+  - first:
+      213: -4603067585821082340
+    second: Tileset small WORLD_66
+  - first:
+      213: 3147798727834733898
+    second: Tileset small WORLD_67
+  - first:
+      213: -868110195948985973
+    second: Tileset small WORLD_68
+  - first:
+      213: -4791624668240485793
+    second: Tileset small WORLD_69
+  - first:
+      213: 7106519688589695163
+    second: Tileset small WORLD_70
+  - first:
+      213: 6618311875010172035
+    second: Tileset small WORLD_71
+  - first:
+      213: -5781796661506368823
+    second: Tileset small WORLD_72
+  - first:
+      213: 4233865605357413600
+    second: Tileset small WORLD_73
+  - first:
+      213: 2773388547172002472
+    second: Tileset small WORLD_74
+  - first:
+      213: -5040356187989835301
+    second: Tileset small WORLD_75
+  - first:
+      213: 7580361247799745489
+    second: Tileset small WORLD_76
+  - first:
+      213: -557869543117218806
+    second: Tileset small WORLD_77
+  - first:
+      213: 8999857634042120099
+    second: Tileset small WORLD_78
+  - first:
+      213: 7493689336428904088
+    second: Tileset small WORLD_79
+  - first:
+      213: 1959814362922317218
+    second: Tileset small WORLD_80
+  - first:
+      213: -5337046979924264867
+    second: Tileset small WORLD_81
+  - first:
+      213: 1262332664674725996
+    second: Tileset small WORLD_82
+  - first:
+      213: 6843062455783842711
+    second: Tileset small WORLD_83
+  - first:
+      213: 7713514444440032979
+    second: Tileset small WORLD_84
+  - first:
+      213: -1696603901378287596
+    second: Tileset small WORLD_85
+  - first:
+      213: -3626926174032702639
+    second: Tileset small WORLD_86
+  - first:
+      213: -2871887528440496292
+    second: Tileset small WORLD_87
+  - first:
+      213: 8408873861587235373
+    second: Tileset small WORLD_88
+  - first:
+      213: -1641234864195176850
+    second: Tileset small WORLD_89
+  - first:
+      213: 1692550853179782947
+    second: Tileset small WORLD_90
+  - first:
+      213: 2490921467043479769
+    second: Tileset small WORLD_91
+  - first:
+      213: 1325102586506376197
+    second: Tileset small WORLD_92
+  - first:
+      213: -5178615940747996988
+    second: Tileset small WORLD_93
+  - first:
+      213: 1478898806125152906
+    second: Tileset small WORLD_94
+  - first:
+      213: -4691715935391802098
+    second: Tileset small WORLD_95
+  - first:
+      213: 798515328484424838
+    second: Tileset small WORLD_96
+  - first:
+      213: 267078874732403868
+    second: Tileset small WORLD_97
+  - first:
+      213: 1298450258073576366
+    second: Tileset small WORLD_98
+  - first:
+      213: 6208282093875499400
+    second: Tileset small WORLD_99
+  - first:
+      213: 6346486259876839855
+    second: Tileset small WORLD_100
+  - first:
+      213: 4486547092565069381
+    second: Tileset small WORLD_101
+  - first:
+      213: -6268664255213507862
+    second: Tileset small WORLD_102
+  - first:
+      213: -6793531830921908478
+    second: Tileset small WORLD_103
+  - first:
+      213: -2853506704037350236
+    second: Tileset small WORLD_104
+  - first:
+      213: -9119889109182372798
+    second: Tileset small WORLD_105
+  - first:
+      213: -7866862826972742445
+    second: Tileset small WORLD_106
+  - first:
+      213: -3611596292745703433
+    second: Tileset small WORLD_107
+  - first:
+      213: 6587188450638652440
+    second: Tileset small WORLD_108
+  - first:
+      213: 3849923154538239327
+    second: Tileset small WORLD_109
+  - first:
+      213: 6244659167645865027
+    second: Tileset small WORLD_110
+  - first:
+      213: -7506726833984780759
+    second: Tileset small WORLD_111
+  - first:
+      213: 7002078624094785594
+    second: Tileset small WORLD_112
+  - first:
+      213: 4181066635091905391
+    second: Tileset small WORLD_113
+  - first:
+      213: 4317046912825702421
+    second: Tileset small WORLD_114
+  - first:
+      213: 5687780818258984878
+    second: Tileset small WORLD_115
+  - first:
+      213: -1103470134854573319
+    second: Tileset small WORLD_116
+  - first:
+      213: 1800113433433167231
+    second: Tileset small WORLD_117
+  - first:
+      213: 3166197968287020210
+    second: Tileset small WORLD_118
+  - first:
+      213: 1411353782373436758
+    second: Tileset small WORLD_119
+  - first:
+      213: 8494141973903432085
+    second: Tileset small WORLD_120
+  - first:
+      213: -5247636869078312194
+    second: Tileset small WORLD_121
+  - first:
+      213: 1489255412346204838
+    second: Tileset small WORLD_122
+  - first:
+      213: -9214827550561689388
+    second: Tileset small WORLD_123
+  - first:
+      213: -206841195200250856
+    second: Tileset small WORLD_124
+  - first:
+      213: -1483345675281144382
+    second: Tileset small WORLD_125
+  - first:
+      213: -8483852608889971725
+    second: Tileset small WORLD_126
+  - first:
+      213: 2735055401228183370
+    second: Tileset small WORLD_127
+  - first:
+      213: 1838504151696333412
+    second: Tileset small WORLD_128
+  - first:
+      213: 7543991534292916793
+    second: Tileset small WORLD_129
+  - first:
+      213: -5106087344476683556
+    second: Tileset small WORLD_130
+  - first:
+      213: -7036394837999562060
+    second: Tileset small WORLD_131
+  - first:
+      213: -3202080432825596404
+    second: Tileset small WORLD_132
+  - first:
+      213: 1935554701599394403
+    second: Tileset small WORLD_133
+  - first:
+      213: -1375400738717051170
+    second: Tileset small WORLD_134
+  - first:
+      213: -7893546148644565012
+    second: Tileset small WORLD_135
+  - first:
+      213: 9021725425180115491
+    second: Tileset small WORLD_136
+  - first:
+      213: -4136491825397703462
+    second: Tileset small WORLD_137
+  - first:
+      213: -6242304556966434028
+    second: Tileset small WORLD_138
+  - first:
+      213: -9029873962836889309
+    second: Tileset small WORLD_139
+  - first:
+      213: 3002818549124597382
+    second: Tileset small WORLD_140
+  - first:
+      213: 1707169267392369633
+    second: Tileset small WORLD_141
+  - first:
+      213: 5765056707004332057
+    second: Tileset small WORLD_142
+  - first:
+      213: -2728598985099801299
+    second: Tileset small WORLD_143
+  - first:
+      213: -7186826206654855387
+    second: Tileset small WORLD_144
+  - first:
+      213: 6939206082758398760
+    second: Tileset small WORLD_145
+  - first:
+      213: 9113034314479164403
+    second: Tileset small WORLD_146
+  - first:
+      213: -8021045783838738909
+    second: Tileset small WORLD_147
+  - first:
+      213: 3555214742444538651
+    second: Tileset small WORLD_148
+  - first:
+      213: 8837191917120266478
+    second: Tileset small WORLD_149
+  - first:
+      213: 4170839430717719777
+    second: Tileset small WORLD_150
+  - first:
+      213: -4432135755355421628
+    second: Tileset small WORLD_151
+  - first:
+      213: 473992482843542549
+    second: Tileset small WORLD_152
+  - first:
+      213: 7193908407527479567
+    second: Tileset small WORLD_153
+  - first:
+      213: 5030128012414622427
+    second: Tileset small WORLD_154
+  - first:
+      213: -3110134788092621808
+    second: Tileset small WORLD_155
+  - first:
+      213: 5793710693234763237
+    second: Tileset small WORLD_156
+  - first:
+      213: -5024140472113609327
+    second: Tileset small WORLD_157
+  - first:
+      213: 4524414094140536031
+    second: Tileset small WORLD_158
+  - first:
+      213: 8426992476683992491
+    second: Tileset small WORLD_159
+  - first:
+      213: -6950543564469680045
+    second: Tileset small WORLD_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset small WORLD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1007
+        width: 523
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a5b1cb29f6a7c70800000000000000
+      internalID: 8969604283873581658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1175
+        width: 12
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359fe874c9b18b3a0800000000000000
+      internalID: -6649534491783136941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1087
+        width: 96
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f01670fe0eb11d0800000000000000
+      internalID: -3378859778185818290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1046
+        width: 129
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d518177613ab01bc0800000000000000
+      internalID: -3814344163031154339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1055
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6d1c4f6b82303c0800000000000000
+      internalID: -4394624045127969051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1030
+        width: 121
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5976cfe23de69c120800000000000000
+      internalID: 2434598926875912085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1007
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790876081a4b21050800000000000000
+      internalID: 5769872678352027799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1007
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a159bc3af49d6d0800000000000000
+      internalID: -2965251314732950985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1007
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf69bdf61cf38c00800000000000000
+      internalID: 901841526080499636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1007
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c522b62729fb54d90800000000000000
+      internalID: -7114069400656076196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1007
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32774724e7c371a0800000000000000
+      internalID: -6812882028555963845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 982
+        width: 481
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ca3f869f56cd510800000000000000
+      internalID: 1575246091554892950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1007
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b872bccbe84c00ac0800000000000000
+      internalID: -3890893960716277877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 999
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b58317b7fc206400800000000000000
+      internalID: 315301416355988921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1014
+        width: 121
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25771a40d1089310800000000000000
+      internalID: 1411880477288527147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 991
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b966336e3165721b0800000000000000
+      internalID: -5681477761438095717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1007
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e39dfc5502ed4f0800000000000000
+      internalID: -802168130693939660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1007
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce1e722150b55cd0800000000000000
+      internalID: -2569954149827469632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1007
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d806abc68e05140800000000000000
+      internalID: 4706517164283170153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 991
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305b064465c6aa610800000000000000
+      internalID: 1633236932645401859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c1c734433d9d8d0800000000000000
+      internalID: -2820991470146937840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 991
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b127a97127b672f0800000000000000
+      internalID: -975390914876333639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 999
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf37bf2d6f99f10800000000000000
+      internalID: 2277122472634743491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 999
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc8895bc15498790800000000000000
+      internalID: -7527409312564998925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 999
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ac9063e9f50680800000000000000
+      internalID: -8789344342769883140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 999
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5f5ba885d6d1640800000000000000
+      internalID: 5052314584031294972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 991
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcb8525f9366ebe0800000000000000
+      internalID: -1448360694220538690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 991
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d309eefd3cb7dee60800000000000000
+      internalID: 7993180994858291261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 991
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8c1c0816734af20800000000000000
+      internalID: 3432929707874699473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 991
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04d8d11d695b2340800000000000000
+      internalID: 4840060549525459979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 991
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250c69f218e26eda0800000000000000
+      internalID: -5915989928120500142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 991
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b3e723891f44f90800000000000000
+      internalID: -6970180687278228715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 991
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb1bbac463c8f860800000000000000
+      internalID: 7564010411834153926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 983
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fac7342d1bfb8d0800000000000000
+      internalID: -2828346524331888886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 991
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12098a619d496b70800000000000000
+      internalID: 8892724226172715550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 975
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daffd7a29b4e7b10800000000000000
+      internalID: 1981103979343379158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac96af5e487202c0800000000000000
+      internalID: -4466875602390573906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 975
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9365f3293cc9d8fb0800000000000000
+      internalID: -4643883276962933191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 975
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcfa7b65a2cfdca0800000000000000
+      internalID: -5989854963650855683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 983
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601e8eff46864400800000000000000
+      internalID: 308081302652719213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 975
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a2913064a546110800000000000000
+      internalID: 1253225853062031916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 983
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b99a9cd7a0c0a0800000000000000
+      internalID: -6863301266184227378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 975
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982169e0f47f8c810800000000000000
+      internalID: 1785949171171594889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 983
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d2bac61225c5860800000000000000
+      internalID: 7519975781312441731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 975
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f33430b4199ffff0800000000000000
+      internalID: -113160842103816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 81
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720eed6b567ae2c90800000000000000
+      internalID: -7192627499562508249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 81
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a0c611ffadaac30800000000000000
+      internalID: 4371547177360296514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 959
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ae2c4ae93da01f0800000000000000
+      internalID: -1077816482479281546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 959
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fedf18b0f97304d0800000000000000
+      internalID: -3169555637950488839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 959
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3735d7173e058d2e0800000000000000
+      internalID: -2100840288376499341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 959
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31cce876b4e31300800000000000000
+      internalID: 221772279035248958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 855
+        width: 217
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057ca0ce1b92b6d50800000000000000
+      internalID: 6731519912181417808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_52
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 863
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88c613bdaae88ff0800000000000000
+      internalID: -33518965450422131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951
+        width: 81
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a7e5d27e975c3d0800000000000000
+      internalID: -3187007127489185147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 81
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a949626394db69980800000000000000
+      internalID: -8532424321868065638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 943
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3fd7fa6642bd0e0800000000000000
+      internalID: -2244159965864528943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 943
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d7b99a7f3f8d320800000000000000
+      internalID: 2583082631324990759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 943
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5d4454dff8576f0800000000000000
+      internalID: -687485050152495701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 943
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb74c147e073ff10800000000000000
+      internalID: 2302307973059607499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 927
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaacf0143929b5d70800000000000000
+      internalID: 9032974638771063470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 927
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c96a318b014a3b40800000000000000
+      internalID: 5420716619162347976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 927
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c916e823d0fcc3370800000000000000
+      internalID: 8303739468554068380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 927
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04781f86833161ee0800000000000000
+      internalID: -1290823110195312832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 175
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b449270e89a8d7020800000000000000
+      internalID: 2341179770507793483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 903
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a86e7d5397d142b0800000000000000
+      internalID: -5601959433543456608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 167
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d5b2eb3b1308160800000000000000
+      internalID: 7025670066757393671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 177
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1df4063b6e9e10c0800000000000000
+      internalID: -4603067585821082340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 895
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d0405e34a3fab20800000000000000
+      internalID: 3147798727834733898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 161
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81e090506ad3f3f0800000000000000
+      internalID: -868110195948985973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 161
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52e68850cab08db0800000000000000
+      internalID: -4791624668240485793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_70
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 687
+        width: 306
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb855bb310e6f9260800000000000000
+      internalID: 7106519688589695163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 161
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841bb2c597f8db50800000000000000
+      internalID: 6618311875010172035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca9f53d19ee2cfa0800000000000000
+      internalID: -5781796661506368823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_73
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 805
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4a21a0656b1ca30800000000000000
+      internalID: 4233865605357413600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 798
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae25a803e0d7620800000000000000
+      internalID: 2773388547172002472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_75
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 791
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd18c6180ce0d0ab0800000000000000
+      internalID: -5040356187989835301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_76
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 703
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db9d34746ad23960800000000000000
+      internalID: 7580361247799745489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 768
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c1d733b9c0248f0800000000000000
+      internalID: -557869543117218806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 768
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a70b2ab5dae5ec70800000000000000
+      internalID: 8999857634042120099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 742
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e3afa8fbeeef760800000000000000
+      internalID: 7493689336428904088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 756
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a571bf87c8a23b10800000000000000
+      internalID: 1959814362922317218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 756
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58fa047c000fe5b0800000000000000
+      internalID: -5337046979924264867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_82
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 736
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c603f42ded4b48110800000000000000
+      internalID: 1262332664674725996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_83
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 736
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793eec42c0177fe50800000000000000
+      internalID: 6843062455783842711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_84
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 743
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d651bee488eb0b60800000000000000
+      internalID: 7713514444440032979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_85
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 735
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4182ecd9db37478e0800000000000000
+      internalID: -1696603901378287596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_86
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 663
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153d63a6cd19aadc0800000000000000
+      internalID: -3626926174032702639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_87
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 645
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ffd6042810528d0800000000000000
+      internalID: -2871887528440496292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_88
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 721
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2279f8993252b470800000000000000
+      internalID: 8408873861587235373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 661
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66f8ae26992939e0800000000000000
+      internalID: -1641234864195176850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 724
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327b01098062d7710800000000000000
+      internalID: 1692550853179782947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 724
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0858670e7819220800000000000000
+      internalID: 2490921467043479769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 615
+        width: 27
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504f9af18c5b36210800000000000000
+      internalID: 1325102586506376197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_93
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 615
+        width: 29
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c05a874d3cd128b0800000000000000
+      internalID: -5178615940747996988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_94
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 705
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ac6dde0aa168410800000000000000
+      internalID: 1478898806125152906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_95
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 615
+        width: 15
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d9eebe63da3eeb0800000000000000
+      internalID: -4691715935391802098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_96
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 615
+        width: 15
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cb406e575e41b00800000000000000
+      internalID: 798515328484424838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_97
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 591
+        width: 47
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c9f6f42dad4b300800000000000000
+      internalID: 267078874732403868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_98
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 687
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea36df651a5050210800000000000000
+      internalID: 1298450258073576366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_99
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 663
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8811ed6ebaf382650800000000000000
+      internalID: 6208282093875499400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_100
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 689
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa14bd3d0af331850800000000000000
+      internalID: 6346486259876839855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 659
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e07685fca634e30800000000000000
+      internalID: 4486547092565069381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_102
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 599
+        width: 16
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea6fcb921b3109a0800000000000000
+      internalID: -6268664255213507862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_103
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 663
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f279f1bc688b1a0800000000000000
+      internalID: -6793531830921908478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_104
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 599
+        width: 16
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a478ad65ce4668d0800000000000000
+      internalID: -2853506704037350236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_105
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 673
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2442b38ac25af6180800000000000000
+      internalID: -9119889109182372798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_106
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 647
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc709570f943d290800000000000000
+      internalID: -7866862826972742445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_107
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 654
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff46ca8e4801edc0800000000000000
+      internalID: -3611596292745703433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_108
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 663
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8146fd4def46a6b50800000000000000
+      internalID: 6587188450638652440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_109
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 649
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f559dc616bcad6530800000000000000
+      internalID: 3849923154538239327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_110
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 657
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3441be66d6c79a650800000000000000
+      internalID: 6244659167645865027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926c17287bfb2d790800000000000000
+      internalID: -7506726833984780759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 639
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a309686f8616c2160800000000000000
+      internalID: 7002078624094785594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_113
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 633
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b04eec3f1260a30800000000000000
+      internalID: 4181066635091905391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_114
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 639
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5183ca56b4b39eb30800000000000000
+      internalID: 4317046912825702421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_115
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 613
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7b90e48e0fee40800000000000000
+      internalID: 5687780818258984878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_116
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 623
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2adbf32cfafa0f0800000000000000
+      internalID: -1103470134854573319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_117
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 607
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75513b51a94bf810800000000000000
+      internalID: 1800113433433167231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_118
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 633
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4bf44e64890fb20800000000000000
+      internalID: 3166197968287020210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 591
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dc5c299c2269310800000000000000
+      internalID: 1411353782373436758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599df321f1141e570800000000000000
+      internalID: 8494141973903432085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_121
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 609
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa185c1216ac27b0800000000000000
+      internalID: -5247636869078312194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_122
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 581
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a239b838e5eaa410800000000000000
+      internalID: 1489255412346204838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_123
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 613
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0a94e3a2b5e1080800000000000000
+      internalID: -9214827550561689388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_124
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 615
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cfb236707212df0800000000000000
+      internalID: -206841195200250856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_125
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 605
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c561c9a7f81a6be0800000000000000
+      internalID: -1483345675281144382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_126
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 615
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb9758600d434a80800000000000000
+      internalID: -8483852608889971725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_127
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 607
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47283f756ed4f520800000000000000
+      internalID: 2735055401228183370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_128
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 616
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ad0fff8cda38910800000000000000
+      internalID: 1838504151696333412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_129
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 595
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a5516a454a1b860800000000000000
+      internalID: 7543991534292916793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_130
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 586
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd289580d988329b0800000000000000
+      internalID: -5106087344476683556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_131
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 586
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2d4addc24b95e90800000000000000
+      internalID: -7036394837999562060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_132
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 559
+        width: 210
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06833bcfccef83d0800000000000000
+      internalID: -3202080432825596404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_133
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 591
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a4b200fb87cda10800000000000000
+      internalID: 1935554701599394403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 591
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6d5f8b05899ece0800000000000000
+      internalID: -1375400738717051170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_135
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 591
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef43ef799d747290800000000000000
+      internalID: -7893546148644565012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_136
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 599
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32288fc997b933d70800000000000000
+      internalID: 9021725425180115491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_137
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 599
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcdcd2d99a3896c0800000000000000
+      internalID: -4136491825397703462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_138
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 585
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ba63e1411ee59a0800000000000000
+      internalID: -6242304556966434028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_139
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 575
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321fe8e19717fa280800000000000000
+      internalID: -9029873962836889309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_140
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 583
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68686819f872ca920800000000000000
+      internalID: 3002818549124597382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_141
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 578
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3d26a576511b710800000000000000
+      internalID: 1707169267392369633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_142
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 578
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f9fac788910050800000000000000
+      internalID: 5765056707004332057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_143
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 14
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d82a60ea1122ad0800000000000000
+      internalID: -2728598985099801299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_144
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 186
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5278ed974a3434c90800000000000000
+      internalID: -7186826206654855387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_145
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 182
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8235b02ba230d4060800000000000000
+      internalID: 6939206082758398760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_146
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 146
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbd9741d60087e70800000000000000
+      internalID: 9113034314479164403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326b52f5b558fa090800000000000000
+      internalID: -8021045783838738909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_148
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b73afc8f8a65130800000000000000
+      internalID: 3555214742444538651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_149
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee028e72a3304aa70800000000000000
+      internalID: 8837191917120266478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_150
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e44f1b3d5cc1e930800000000000000
+      internalID: 4170839430717719777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_151
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4448bb15304ed72c0800000000000000
+      internalID: -4432135755355421628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_152
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514481ed6a5f39600800000000000000
+      internalID: 473992482843542549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_153
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 16
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f091f59e495e5d360800000000000000
+      internalID: 7193908407527479567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_154
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda17bac6ca9ec540800000000000000
+      internalID: 5030128012414622427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_155
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c872073e496d4d0800000000000000
+      internalID: -3110134788092621808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_156
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5e3a9dd25676050800000000000000
+      internalID: 5793710693234763237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_157
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19541021cdaa64ab0800000000000000
+      internalID: -5024140472113609327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_158
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd47402b5a2f9ce30800000000000000
+      internalID: 4524414094140536031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_159
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad73a96201b2f470800000000000000
+      internalID: 8426992476683992491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset small WORLD_160
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35848e32475ba8f90800000000000000
+      internalID: -6950543564469680045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset small WORLD_0: 8969604283873581658
+      Tileset small WORLD_1: -6649534491783136941
+      Tileset small WORLD_10: -6812882028555963845
+      Tileset small WORLD_100: 6346486259876839855
+      Tileset small WORLD_101: 4486547092565069381
+      Tileset small WORLD_102: -6268664255213507862
+      Tileset small WORLD_103: -6793531830921908478
+      Tileset small WORLD_104: -2853506704037350236
+      Tileset small WORLD_105: -9119889109182372798
+      Tileset small WORLD_106: -7866862826972742445
+      Tileset small WORLD_107: -3611596292745703433
+      Tileset small WORLD_108: 6587188450638652440
+      Tileset small WORLD_109: 3849923154538239327
+      Tileset small WORLD_11: 1575246091554892950
+      Tileset small WORLD_110: 6244659167645865027
+      Tileset small WORLD_111: -7506726833984780759
+      Tileset small WORLD_112: 7002078624094785594
+      Tileset small WORLD_113: 4181066635091905391
+      Tileset small WORLD_114: 4317046912825702421
+      Tileset small WORLD_115: 5687780818258984878
+      Tileset small WORLD_116: -1103470134854573319
+      Tileset small WORLD_117: 1800113433433167231
+      Tileset small WORLD_118: 3166197968287020210
+      Tileset small WORLD_119: 1411353782373436758
+      Tileset small WORLD_12: -3890893960716277877
+      Tileset small WORLD_120: 8494141973903432085
+      Tileset small WORLD_121: -5247636869078312194
+      Tileset small WORLD_122: 1489255412346204838
+      Tileset small WORLD_123: -9214827550561689388
+      Tileset small WORLD_124: -206841195200250856
+      Tileset small WORLD_125: -1483345675281144382
+      Tileset small WORLD_126: -8483852608889971725
+      Tileset small WORLD_127: 2735055401228183370
+      Tileset small WORLD_128: 1838504151696333412
+      Tileset small WORLD_129: 7543991534292916793
+      Tileset small WORLD_13: 315301416355988921
+      Tileset small WORLD_130: -5106087344476683556
+      Tileset small WORLD_131: -7036394837999562060
+      Tileset small WORLD_132: -3202080432825596404
+      Tileset small WORLD_133: 1935554701599394403
+      Tileset small WORLD_134: -1375400738717051170
+      Tileset small WORLD_135: -7893546148644565012
+      Tileset small WORLD_136: 9021725425180115491
+      Tileset small WORLD_137: -4136491825397703462
+      Tileset small WORLD_138: -6242304556966434028
+      Tileset small WORLD_139: -9029873962836889309
+      Tileset small WORLD_14: 1411880477288527147
+      Tileset small WORLD_140: 3002818549124597382
+      Tileset small WORLD_141: 1707169267392369633
+      Tileset small WORLD_142: 5765056707004332057
+      Tileset small WORLD_143: -2728598985099801299
+      Tileset small WORLD_144: -7186826206654855387
+      Tileset small WORLD_145: 6939206082758398760
+      Tileset small WORLD_146: 9113034314479164403
+      Tileset small WORLD_147: -8021045783838738909
+      Tileset small WORLD_148: 3555214742444538651
+      Tileset small WORLD_149: 8837191917120266478
+      Tileset small WORLD_15: -5681477761438095717
+      Tileset small WORLD_150: 4170839430717719777
+      Tileset small WORLD_151: -4432135755355421628
+      Tileset small WORLD_152: 473992482843542549
+      Tileset small WORLD_153: 7193908407527479567
+      Tileset small WORLD_154: 5030128012414622427
+      Tileset small WORLD_155: -3110134788092621808
+      Tileset small WORLD_156: 5793710693234763237
+      Tileset small WORLD_157: -5024140472113609327
+      Tileset small WORLD_158: 4524414094140536031
+      Tileset small WORLD_159: 8426992476683992491
+      Tileset small WORLD_16: -802168130693939660
+      Tileset small WORLD_160: -6950543564469680045
+      Tileset small WORLD_17: -2569954149827469632
+      Tileset small WORLD_18: 4706517164283170153
+      Tileset small WORLD_19: 1633236932645401859
+      Tileset small WORLD_2: -3378859778185818290
+      Tileset small WORLD_20: -2820991470146937840
+      Tileset small WORLD_21: -975390914876333639
+      Tileset small WORLD_22: 2277122472634743491
+      Tileset small WORLD_23: -7527409312564998925
+      Tileset small WORLD_24: -8789344342769883140
+      Tileset small WORLD_25: 5052314584031294972
+      Tileset small WORLD_26: -1448360694220538690
+      Tileset small WORLD_27: 7993180994858291261
+      Tileset small WORLD_28: 3432929707874699473
+      Tileset small WORLD_29: 4840060549525459979
+      Tileset small WORLD_3: -3814344163031154339
+      Tileset small WORLD_30: -5915989928120500142
+      Tileset small WORLD_31: -6970180687278228715
+      Tileset small WORLD_32: 7564010411834153926
+      Tileset small WORLD_33: -2828346524331888886
+      Tileset small WORLD_34: 8892724226172715550
+      Tileset small WORLD_35: 1981103979343379158
+      Tileset small WORLD_36: -4466875602390573906
+      Tileset small WORLD_37: -4643883276962933191
+      Tileset small WORLD_38: -5989854963650855683
+      Tileset small WORLD_39: 308081302652719213
+      Tileset small WORLD_4: -4394624045127969051
+      Tileset small WORLD_40: 1253225853062031916
+      Tileset small WORLD_41: -6863301266184227378
+      Tileset small WORLD_42: 1785949171171594889
+      Tileset small WORLD_43: 7519975781312441731
+      Tileset small WORLD_44: -113160842103816
+      Tileset small WORLD_45: -7192627499562508249
+      Tileset small WORLD_46: 4371547177360296514
+      Tileset small WORLD_47: -1077816482479281546
+      Tileset small WORLD_48: -3169555637950488839
+      Tileset small WORLD_49: -2100840288376499341
+      Tileset small WORLD_5: 2434598926875912085
+      Tileset small WORLD_50: 221772279035248958
+      Tileset small WORLD_51: 6731519912181417808
+      Tileset small WORLD_52: -33518965450422131
+      Tileset small WORLD_53: -3187007127489185147
+      Tileset small WORLD_54: -8532424321868065638
+      Tileset small WORLD_55: -2244159965864528943
+      Tileset small WORLD_56: 2583082631324990759
+      Tileset small WORLD_57: -687485050152495701
+      Tileset small WORLD_58: 2302307973059607499
+      Tileset small WORLD_59: 9032974638771063470
+      Tileset small WORLD_6: 5769872678352027799
+      Tileset small WORLD_60: 5420716619162347976
+      Tileset small WORLD_61: 8303739468554068380
+      Tileset small WORLD_62: -1290823110195312832
+      Tileset small WORLD_63: 2341179770507793483
+      Tileset small WORLD_64: -5601959433543456608
+      Tileset small WORLD_65: 7025670066757393671
+      Tileset small WORLD_66: -4603067585821082340
+      Tileset small WORLD_67: 3147798727834733898
+      Tileset small WORLD_68: -868110195948985973
+      Tileset small WORLD_69: -4791624668240485793
+      Tileset small WORLD_7: -2965251314732950985
+      Tileset small WORLD_70: 7106519688589695163
+      Tileset small WORLD_71: 6618311875010172035
+      Tileset small WORLD_72: -5781796661506368823
+      Tileset small WORLD_73: 4233865605357413600
+      Tileset small WORLD_74: 2773388547172002472
+      Tileset small WORLD_75: -5040356187989835301
+      Tileset small WORLD_76: 7580361247799745489
+      Tileset small WORLD_77: -557869543117218806
+      Tileset small WORLD_78: 8999857634042120099
+      Tileset small WORLD_79: 7493689336428904088
+      Tileset small WORLD_8: 901841526080499636
+      Tileset small WORLD_80: 1959814362922317218
+      Tileset small WORLD_81: -5337046979924264867
+      Tileset small WORLD_82: 1262332664674725996
+      Tileset small WORLD_83: 6843062455783842711
+      Tileset small WORLD_84: 7713514444440032979
+      Tileset small WORLD_85: -1696603901378287596
+      Tileset small WORLD_86: -3626926174032702639
+      Tileset small WORLD_87: -2871887528440496292
+      Tileset small WORLD_88: 8408873861587235373
+      Tileset small WORLD_89: -1641234864195176850
+      Tileset small WORLD_9: -7114069400656076196
+      Tileset small WORLD_90: 1692550853179782947
+      Tileset small WORLD_91: 2490921467043479769
+      Tileset small WORLD_92: 1325102586506376197
+      Tileset small WORLD_93: -5178615940747996988
+      Tileset small WORLD_94: 1478898806125152906
+      Tileset small WORLD_95: -4691715935391802098
+      Tileset small WORLD_96: 798515328484424838
+      Tileset small WORLD_97: 267078874732403868
+      Tileset small WORLD_98: 1298450258073576366
+      Tileset small WORLD_99: 6208282093875499400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

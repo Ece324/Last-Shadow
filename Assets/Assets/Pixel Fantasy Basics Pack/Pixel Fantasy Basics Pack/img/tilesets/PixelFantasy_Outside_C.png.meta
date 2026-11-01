@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 7db62449d5653e0498f9f5681721d031
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2861463553153193423
+    second: PixelFantasy_Outside_C_0
+  - first:
+      213: -4622270940413542450
+    second: PixelFantasy_Outside_C_1
+  - first:
+      213: 6675197752625067514
+    second: PixelFantasy_Outside_C_2
+  - first:
+      213: -8392618471546297179
+    second: PixelFantasy_Outside_C_3
+  - first:
+      213: 8233989860041911202
+    second: PixelFantasy_Outside_C_4
+  - first:
+      213: 8943301753731912153
+    second: PixelFantasy_Outside_C_5
+  - first:
+      213: -2257108642464077014
+    second: PixelFantasy_Outside_C_6
+  - first:
+      213: -8208028693134509944
+    second: PixelFantasy_Outside_C_7
+  - first:
+      213: 4773449597790298541
+    second: PixelFantasy_Outside_C_8
+  - first:
+      213: -8648783985793552954
+    second: PixelFantasy_Outside_C_9
+  - first:
+      213: 1986777672092286703
+    second: PixelFantasy_Outside_C_10
+  - first:
+      213: -9113379139898422362
+    second: PixelFantasy_Outside_C_11
+  - first:
+      213: 6832561935300898770
+    second: PixelFantasy_Outside_C_12
+  - first:
+      213: -620602031782591143
+    second: PixelFantasy_Outside_C_13
+  - first:
+      213: 4658113530506159700
+    second: PixelFantasy_Outside_C_14
+  - first:
+      213: 4278707589677208356
+    second: PixelFantasy_Outside_C_15
+  - first:
+      213: -3828283157921958543
+    second: PixelFantasy_Outside_C_16
+  - first:
+      213: -3499316275508056420
+    second: PixelFantasy_Outside_C_17
+  - first:
+      213: 7541604881879281380
+    second: PixelFantasy_Outside_C_18
+  - first:
+      213: -8278211327524283490
+    second: PixelFantasy_Outside_C_19
+  - first:
+      213: 4909676351201114144
+    second: PixelFantasy_Outside_C_20
+  - first:
+      213: -4149032882303931051
+    second: PixelFantasy_Outside_C_21
+  - first:
+      213: -3545864499353069232
+    second: PixelFantasy_Outside_C_22
+  - first:
+      213: -4864519793804071147
+    second: PixelFantasy_Outside_C_23
+  - first:
+      213: -5453210256244408328
+    second: PixelFantasy_Outside_C_24
+  - first:
+      213: 6421980206726854578
+    second: PixelFantasy_Outside_C_25
+  - first:
+      213: -6260476719087339412
+    second: PixelFantasy_Outside_C_26
+  - first:
+      213: -2172814848018455415
+    second: PixelFantasy_Outside_C_27
+  - first:
+      213: 2258256792326824803
+    second: PixelFantasy_Outside_C_28
+  - first:
+      213: 1488999609079403767
+    second: PixelFantasy_Outside_C_29
+  - first:
+      213: -2510754999679649098
+    second: PixelFantasy_Outside_C_30
+  - first:
+      213: -4308600456364801540
+    second: PixelFantasy_Outside_C_31
+  - first:
+      213: 7313486972535516887
+    second: PixelFantasy_Outside_C_32
+  - first:
+      213: -7826383722165785575
+    second: PixelFantasy_Outside_C_33
+  - first:
+      213: 4418118464845108186
+    second: PixelFantasy_Outside_C_34
+  - first:
+      213: 5365332069487835789
+    second: PixelFantasy_Outside_C_35
+  - first:
+      213: 551202376545280319
+    second: PixelFantasy_Outside_C_36
+  - first:
+      213: -5844972994236643922
+    second: PixelFantasy_Outside_C_37
+  - first:
+      213: -132375546938495570
+    second: PixelFantasy_Outside_C_38
+  - first:
+      213: 9188114123810897023
+    second: PixelFantasy_Outside_C_39
+  - first:
+      213: -5815471637977433575
+    second: PixelFantasy_Outside_C_40
+  - first:
+      213: -750228566804321353
+    second: PixelFantasy_Outside_C_41
+  - first:
+      213: 7917710926229355114
+    second: PixelFantasy_Outside_C_42
+  - first:
+      213: -7716687038200699625
+    second: PixelFantasy_Outside_C_43
+  - first:
+      213: 2848080280235240952
+    second: PixelFantasy_Outside_C_44
+  - first:
+      213: 8276111553380120482
+    second: PixelFantasy_Outside_C_45
+  - first:
+      213: -2056885335830281086
+    second: PixelFantasy_Outside_C_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 629
+        width: 47
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aa3902f0a0a48d0800000000000000
+      internalID: -2861463553153193423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 671
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf3a0dc1156adfb0800000000000000
+      internalID: -4622270940413542450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 623
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5f3b24df013ac50800000000000000
+      internalID: 6675197752625067514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 671
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4e91457fd678b80800000000000000
+      internalID: -8392618471546297179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 671
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab67f3f622054270800000000000000
+      internalID: 8233989860041911202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 671
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d19156bf8dfc1c70800000000000000
+      internalID: 8943301753731912153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 671
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be67af5a32da0e0800000000000000
+      internalID: -2257108642464077014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 481
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888f08f3469371e80800000000000000
+      internalID: -8208028693134509944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 623
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1a58d4e13be3240800000000000000
+      internalID: 4773449597790298541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 383
+        width: 281
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd20b3c9c859f780800000000000000
+      internalID: -8648783985793552954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 623
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feefcb034c3729b10800000000000000
+      internalID: 1986777672092286703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 623
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab46eef4f5c68180800000000000000
+      internalID: -9113379139898422362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_12
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 623
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df277331e222de50800000000000000
+      internalID: 6832561935300898770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 606
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95586bc7dbd2367f0800000000000000
+      internalID: -620602031782591143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 597
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456a2458391f4a040800000000000000
+      internalID: 4658113530506159700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 584
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4235a7c12e5016b30800000000000000
+      internalID: 4278707589677208356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 588
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175737040c43fdac0800000000000000
+      internalID: -3828283157921958543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 605
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e6999336eef6fc0800000000000000
+      internalID: -3499316275508056420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 577
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee24c4dea929a860800000000000000
+      internalID: 7541604881879281380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 580
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bdc4f48a2ed1d80800000000000000
+      internalID: -8278211327524283490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 577
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0287a7bf0aca22440800000000000000
+      internalID: 4909676351201114144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55debd8739cab66c0800000000000000
+      internalID: -4149032882303931051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 383
+        width: 47
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059546e460f8acec0800000000000000
+      internalID: -3545864499353069232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa3775501cd7cb0800000000000000
+      internalID: -4864519793804071147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 46
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fff80f0a2e4254b0800000000000000
+      internalID: -5453210256244408328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b73b8019f47f1950800000000000000
+      internalID: 6421980206726854578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68323ae7915e19a0800000000000000
+      internalID: -6260476719087339412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9846a25686c98d1e0800000000000000
+      internalID: -2172814848018455415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363e04e7690f65f10800000000000000
+      internalID: 2258256792326824803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 292
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f49fd1614df9a410800000000000000
+      internalID: 1488999609079403767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bafe0e51a1082dd0800000000000000
+      internalID: -2510754999679649098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 191
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf14a4f76b6c434c0800000000000000
+      internalID: -4308600456364801540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de2d6b27a9be7560800000000000000
+      internalID: 7313486972535516887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_33
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ca86c7879136390800000000000000
+      internalID: -7826383722165785575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 196
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3dfa8e55f405d30800000000000000
+      internalID: 4418118464845108186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a75d7271d757a40800000000000000
+      internalID: 5365332069487835789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31255d14a346a700800000000000000
+      internalID: 551202376545280319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea506cc970c72eea0800000000000000
+      internalID: -5844972994236643922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 111
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead68c33425b92ef0800000000000000
+      internalID: -132375546938495570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 97
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c7f796d1db28f70800000000000000
+      internalID: 9188114123810897023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 97
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91afef06b5b4b4fa0800000000000000
+      internalID: -5815471637977433575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb2747e717a695f0800000000000000
+      internalID: -750228566804321353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a3128332c51ed60800000000000000
+      internalID: 7917710926229355114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 48
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715af250602d8e490800000000000000
+      internalID: -7716687038200699625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd6733dce9668720800000000000000
+      internalID: 2848080280235240952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7
+        width: 23
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a77abceb97aad270800000000000000
+      internalID: 8276111553380120482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Outside_C_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28440265fa97473e0800000000000000
+      internalID: -2056885335830281086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelFantasy_Outside_C_0: -2861463553153193423
+      PixelFantasy_Outside_C_1: -4622270940413542450
+      PixelFantasy_Outside_C_10: 1986777672092286703
+      PixelFantasy_Outside_C_11: -9113379139898422362
+      PixelFantasy_Outside_C_12: 6832561935300898770
+      PixelFantasy_Outside_C_13: -620602031782591143
+      PixelFantasy_Outside_C_14: 4658113530506159700
+      PixelFantasy_Outside_C_15: 4278707589677208356
+      PixelFantasy_Outside_C_16: -3828283157921958543
+      PixelFantasy_Outside_C_17: -3499316275508056420
+      PixelFantasy_Outside_C_18: 7541604881879281380
+      PixelFantasy_Outside_C_19: -8278211327524283490
+      PixelFantasy_Outside_C_2: 6675197752625067514
+      PixelFantasy_Outside_C_20: 4909676351201114144
+      PixelFantasy_Outside_C_21: -4149032882303931051
+      PixelFantasy_Outside_C_22: -3545864499353069232
+      PixelFantasy_Outside_C_23: -4864519793804071147
+      PixelFantasy_Outside_C_24: -5453210256244408328
+      PixelFantasy_Outside_C_25: 6421980206726854578
+      PixelFantasy_Outside_C_26: -6260476719087339412
+      PixelFantasy_Outside_C_27: -2172814848018455415
+      PixelFantasy_Outside_C_28: 2258256792326824803
+      PixelFantasy_Outside_C_29: 1488999609079403767
+      PixelFantasy_Outside_C_3: -8392618471546297179
+      PixelFantasy_Outside_C_30: -2510754999679649098
+      PixelFantasy_Outside_C_31: -4308600456364801540
+      PixelFantasy_Outside_C_32: 7313486972535516887
+      PixelFantasy_Outside_C_33: -7826383722165785575
+      PixelFantasy_Outside_C_34: 4418118464845108186
+      PixelFantasy_Outside_C_35: 5365332069487835789
+      PixelFantasy_Outside_C_36: 551202376545280319
+      PixelFantasy_Outside_C_37: -5844972994236643922
+      PixelFantasy_Outside_C_38: -132375546938495570
+      PixelFantasy_Outside_C_39: 9188114123810897023
+      PixelFantasy_Outside_C_4: 8233989860041911202
+      PixelFantasy_Outside_C_40: -5815471637977433575
+      PixelFantasy_Outside_C_41: -750228566804321353
+      PixelFantasy_Outside_C_42: 7917710926229355114
+      PixelFantasy_Outside_C_43: -7716687038200699625
+      PixelFantasy_Outside_C_44: 2848080280235240952
+      PixelFantasy_Outside_C_45: 8276111553380120482
+      PixelFantasy_Outside_C_46: -2056885335830281086
+      PixelFantasy_Outside_C_5: 8943301753731912153
+      PixelFantasy_Outside_C_6: -2257108642464077014
+      PixelFantasy_Outside_C_7: -8208028693134509944
+      PixelFantasy_Outside_C_8: 4773449597790298541
+      PixelFantasy_Outside_C_9: -8648783985793552954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

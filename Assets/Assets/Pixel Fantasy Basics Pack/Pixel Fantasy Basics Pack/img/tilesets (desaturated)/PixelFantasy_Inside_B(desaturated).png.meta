@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: d6f618b594c23c447abde9cbabf28750
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6139369174385175403
+    second: PixelFantasy_Inside_B(desaturated)_0
+  - first:
+      213: 1907038905573207608
+    second: PixelFantasy_Inside_B(desaturated)_1
+  - first:
+      213: -5917416331877800688
+    second: PixelFantasy_Inside_B(desaturated)_2
+  - first:
+      213: 3680273895745405518
+    second: PixelFantasy_Inside_B(desaturated)_3
+  - first:
+      213: -4759369827044873655
+    second: PixelFantasy_Inside_B(desaturated)_4
+  - first:
+      213: 973657982074977661
+    second: PixelFantasy_Inside_B(desaturated)_5
+  - first:
+      213: -5828647696404918379
+    second: PixelFantasy_Inside_B(desaturated)_6
+  - first:
+      213: -2828119338437366823
+    second: PixelFantasy_Inside_B(desaturated)_7
+  - first:
+      213: -2240618690623223249
+    second: PixelFantasy_Inside_B(desaturated)_8
+  - first:
+      213: 2551243423335693550
+    second: PixelFantasy_Inside_B(desaturated)_9
+  - first:
+      213: -2894616963702228233
+    second: PixelFantasy_Inside_B(desaturated)_10
+  - first:
+      213: -6582357966689829250
+    second: PixelFantasy_Inside_B(desaturated)_11
+  - first:
+      213: 4248600797124004212
+    second: PixelFantasy_Inside_B(desaturated)_12
+  - first:
+      213: -3424839498937944086
+    second: PixelFantasy_Inside_B(desaturated)_13
+  - first:
+      213: 1747873222197688237
+    second: PixelFantasy_Inside_B(desaturated)_14
+  - first:
+      213: 7922042811214349317
+    second: PixelFantasy_Inside_B(desaturated)_15
+  - first:
+      213: 1019519234793670925
+    second: PixelFantasy_Inside_B(desaturated)_16
+  - first:
+      213: 4215123219185627970
+    second: PixelFantasy_Inside_B(desaturated)_17
+  - first:
+      213: -1081348054848101595
+    second: PixelFantasy_Inside_B(desaturated)_18
+  - first:
+      213: 8723560827151042975
+    second: PixelFantasy_Inside_B(desaturated)_19
+  - first:
+      213: 5824093950626296991
+    second: PixelFantasy_Inside_B(desaturated)_20
+  - first:
+      213: -4831407768904179810
+    second: PixelFantasy_Inside_B(desaturated)_21
+  - first:
+      213: 9126645554281652959
+    second: PixelFantasy_Inside_B(desaturated)_22
+  - first:
+      213: -8391487611301259247
+    second: PixelFantasy_Inside_B(desaturated)_23
+  - first:
+      213: 8953051983451904129
+    second: PixelFantasy_Inside_B(desaturated)_24
+  - first:
+      213: 629234203672430244
+    second: PixelFantasy_Inside_B(desaturated)_25
+  - first:
+      213: -4532488548513381116
+    second: PixelFantasy_Inside_B(desaturated)_26
+  - first:
+      213: 1906516997781236770
+    second: PixelFantasy_Inside_B(desaturated)_27
+  - first:
+      213: -5443819266961223997
+    second: PixelFantasy_Inside_B(desaturated)_28
+  - first:
+      213: 8510061095019847209
+    second: PixelFantasy_Inside_B(desaturated)_29
+  - first:
+      213: -5252197773656839316
+    second: PixelFantasy_Inside_B(desaturated)_30
+  - first:
+      213: 3036272315946116035
+    second: PixelFantasy_Inside_B(desaturated)_31
+  - first:
+      213: -3011864422336902104
+    second: PixelFantasy_Inside_B(desaturated)_32
+  - first:
+      213: -7061966478722165379
+    second: PixelFantasy_Inside_B(desaturated)_33
+  - first:
+      213: 6078569582370109243
+    second: PixelFantasy_Inside_B(desaturated)_34
+  - first:
+      213: -8527934762613873851
+    second: PixelFantasy_Inside_B(desaturated)_35
+  - first:
+      213: 7160209188753250875
+    second: PixelFantasy_Inside_B(desaturated)_36
+  - first:
+      213: 5202943481896742127
+    second: PixelFantasy_Inside_B(desaturated)_37
+  - first:
+      213: 6125085414593421185
+    second: PixelFantasy_Inside_B(desaturated)_38
+  - first:
+      213: 2221484578685940449
+    second: PixelFantasy_Inside_B(desaturated)_39
+  - first:
+      213: 2669791570170684494
+    second: PixelFantasy_Inside_B(desaturated)_40
+  - first:
+      213: 1915944554773048812
+    second: PixelFantasy_Inside_B(desaturated)_41
+  - first:
+      213: 2391131746751004413
+    second: PixelFantasy_Inside_B(desaturated)_42
+  - first:
+      213: -2762707467088149304
+    second: PixelFantasy_Inside_B(desaturated)_43
+  - first:
+      213: 4170356692089889922
+    second: PixelFantasy_Inside_B(desaturated)_44
+  - first:
+      213: 1723364686495887044
+    second: PixelFantasy_Inside_B(desaturated)_45
+  - first:
+      213: -8977718651936195557
+    second: PixelFantasy_Inside_B(desaturated)_46
+  - first:
+      213: -3293210629293406875
+    second: PixelFantasy_Inside_B(desaturated)_47
+  - first:
+      213: -6925408852051581625
+    second: PixelFantasy_Inside_B(desaturated)_48
+  - first:
+      213: 1863796888435798411
+    second: PixelFantasy_Inside_B(desaturated)_49
+  - first:
+      213: -2939965394824306721
+    second: PixelFantasy_Inside_B(desaturated)_50
+  - first:
+      213: -2164384538610438928
+    second: PixelFantasy_Inside_B(desaturated)_51
+  - first:
+      213: -741519423694368401
+    second: PixelFantasy_Inside_B(desaturated)_52
+  - first:
+      213: 6798386757516409653
+    second: PixelFantasy_Inside_B(desaturated)_53
+  - first:
+      213: -7486935048455770752
+    second: PixelFantasy_Inside_B(desaturated)_54
+  - first:
+      213: 6126030533151549199
+    second: PixelFantasy_Inside_B(desaturated)_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 337
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594d9cf73449ccaa0800000000000000
+      internalID: -6139369174385175403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 651
+        width: 15
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e6a8bd7c9277a10800000000000000
+      internalID: 1907038905573207608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 729
+        width: 90
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015245ea23d11eda0800000000000000
+      internalID: -5917416331877800688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 728
+        width: 89
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e424c08fb95f21330800000000000000
+      internalID: 3680273895745405518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_4
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 728
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a2748cb5253fdb0800000000000000
+      internalID: -4759369827044873655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_5
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 728
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d7d4aa6c0238d00800000000000000
+      internalID: 973657982074977661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 728
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fc2e63dcb7c1fa0800000000000000
+      internalID: -5828647696404918379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_7
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 728
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db270a127080c8d0800000000000000
+      internalID: -2828119338437366823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 535
+        width: 529
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a4d441c29b7e0e0800000000000000
+      internalID: -2240618690623223249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 623
+        width: 385
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecb97f5066d76320800000000000000
+      internalID: 2551243423335693550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 481
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa75b5353144d7d0800000000000000
+      internalID: -2894616963702228233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 481
+        width: 29
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e7dfadd44c6a4a0800000000000000
+      internalID: -6582357966689829250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 482
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47984093aef06fa30800000000000000
+      internalID: 4248600797124004212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 533
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7b31d0f968870d0800000000000000
+      internalID: -3424839498937944086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7b2895f61b14810800000000000000
+      internalID: 1747873222197688237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 480
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5044ed9c6ffb0fd60800000000000000
+      internalID: 7922042811214349317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 490
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d090e87a75f062e00800000000000000
+      internalID: 1019519234793670925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 287
+        width: 428
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2437f043c302f7a30800000000000000
+      internalID: 4215123219185627970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 384
+        width: 164
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52328306ca74ef0f0800000000000000
+      internalID: -1081348054848101595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_19
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 244
+        width: 109
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99c9d65a50501970800000000000000
+      internalID: 8723560827151042975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 316
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94f499379653d050800000000000000
+      internalID: 5824093950626296991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 306
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f57696b3463fcb0800000000000000
+      internalID: -4831407768904179810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 310
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd22bddc6cb58ae70800000000000000
+      internalID: 9126645554281652959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 310
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1181c4f3a727b8b80800000000000000
+      internalID: -8391487611301259247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 310
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188d149f751af3c70800000000000000
+      internalID: 8953051983451904129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6cb66ac2d7bb800800000000000000
+      internalID: 629234203672430244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 209
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4058555edad5911c0800000000000000
+      internalID: -4532488548513381116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 260
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22caefabb1f457a10800000000000000
+      internalID: 1906516997781236770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 244
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce4953283ba374b0800000000000000
+      internalID: -5443819266961223997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 245
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e97894a7fc91670800000000000000
+      internalID: 8510061095019847209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 219
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2613c3f17c17b0800000000000000
+      internalID: -5252197773656839316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 246
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32251a591032a20800000000000000
+      internalID: 3036272315946116035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 245
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cc8f2f345b336d0800000000000000
+      internalID: -3011864422336902104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_33
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 245
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d759c0c47eadefd90800000000000000
+      internalID: -7061966478722165379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 244
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b373aab54da6b5450800000000000000
+      internalID: 6078569582370109243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_35
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 241
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543e1be2480b6a980800000000000000
+      internalID: -8527934762613873851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 197
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a102d125c2e5360800000000000000
+      internalID: 7160209188753250875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 232
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feca3e8c781943840800000000000000
+      internalID: 5202943481896742127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 229
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f54c38bbca00550800000000000000
+      internalID: 6125085414593421185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 229
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e27592547c44de10800000000000000
+      internalID: 2221484578685940449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_40
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 198
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e442b54b9410d0520800000000000000
+      internalID: 2669791570170684494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_41
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 148
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced6794eb6dc69a10800000000000000
+      internalID: 1915944554773048812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_42
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 202
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeb048a7a10f2120800000000000000
+      internalID: 2391131746751004413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 210
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c444e53234e8a9d0800000000000000
+      internalID: -2762707467088149304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 213
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284e0b2e05510e930800000000000000
+      internalID: 4170356692089889922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 196
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce2a053d0f9ae710800000000000000
+      internalID: 1723364686495887044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_46
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 198
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cb1f9b37cb86380800000000000000
+      internalID: -8977718651936195557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 198
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5650d6e716a2c42d0800000000000000
+      internalID: -3293210629293406875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 101
+        width: 163
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745ae19675104ef90800000000000000
+      internalID: -6925408852051581625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_49
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 529
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81b1bc25698dd910800000000000000
+      internalID: 1863796888435798411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 97
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf5e8dcc052337d0800000000000000
+      internalID: -2939965394824306721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 144
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fce6c2cabf86f1e0800000000000000
+      internalID: -2164384538610438928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6115ac430895b5f0800000000000000
+      internalID: -741519423694368401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b3c7f8cb8b85e50800000000000000
+      internalID: 6798386757516409653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d2f5cad30191890800000000000000
+      internalID: -7486935048455770752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFantasy_Inside_B(desaturated)_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07e1b31058040550800000000000000
+      internalID: 6126030533151549199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelFantasy_Inside_B(desaturated)_0: -6139369174385175403
+      PixelFantasy_Inside_B(desaturated)_1: 1907038905573207608
+      PixelFantasy_Inside_B(desaturated)_10: -2894616963702228233
+      PixelFantasy_Inside_B(desaturated)_11: -6582357966689829250
+      PixelFantasy_Inside_B(desaturated)_12: 4248600797124004212
+      PixelFantasy_Inside_B(desaturated)_13: -3424839498937944086
+      PixelFantasy_Inside_B(desaturated)_14: 1747873222197688237
+      PixelFantasy_Inside_B(desaturated)_15: 7922042811214349317
+      PixelFantasy_Inside_B(desaturated)_16: 1019519234793670925
+      PixelFantasy_Inside_B(desaturated)_17: 4215123219185627970
+      PixelFantasy_Inside_B(desaturated)_18: -1081348054848101595
+      PixelFantasy_Inside_B(desaturated)_19: 8723560827151042975
+      PixelFantasy_Inside_B(desaturated)_2: -5917416331877800688
+      PixelFantasy_Inside_B(desaturated)_20: 5824093950626296991
+      PixelFantasy_Inside_B(desaturated)_21: -4831407768904179810
+      PixelFantasy_Inside_B(desaturated)_22: 9126645554281652959
+      PixelFantasy_Inside_B(desaturated)_23: -8391487611301259247
+      PixelFantasy_Inside_B(desaturated)_24: 8953051983451904129
+      PixelFantasy_Inside_B(desaturated)_25: 629234203672430244
+      PixelFantasy_Inside_B(desaturated)_26: -4532488548513381116
+      PixelFantasy_Inside_B(desaturated)_27: 1906516997781236770
+      PixelFantasy_Inside_B(desaturated)_28: -5443819266961223997
+      PixelFantasy_Inside_B(desaturated)_29: 8510061095019847209
+      PixelFantasy_Inside_B(desaturated)_3: 3680273895745405518
+      PixelFantasy_Inside_B(desaturated)_30: -5252197773656839316
+      PixelFantasy_Inside_B(desaturated)_31: 3036272315946116035
+      PixelFantasy_Inside_B(desaturated)_32: -3011864422336902104
+      PixelFantasy_Inside_B(desaturated)_33: -7061966478722165379
+      PixelFantasy_Inside_B(desaturated)_34: 6078569582370109243
+      PixelFantasy_Inside_B(desaturated)_35: -8527934762613873851
+      PixelFantasy_Inside_B(desaturated)_36: 7160209188753250875
+      PixelFantasy_Inside_B(desaturated)_37: 5202943481896742127
+      PixelFantasy_Inside_B(desaturated)_38: 6125085414593421185
+      PixelFantasy_Inside_B(desaturated)_39: 2221484578685940449
+      PixelFantasy_Inside_B(desaturated)_4: -4759369827044873655
+      PixelFantasy_Inside_B(desaturated)_40: 2669791570170684494
+      PixelFantasy_Inside_B(desaturated)_41: 1915944554773048812
+      PixelFantasy_Inside_B(desaturated)_42: 2391131746751004413
+      PixelFantasy_Inside_B(desaturated)_43: -2762707467088149304
+      PixelFantasy_Inside_B(desaturated)_44: 4170356692089889922
+      PixelFantasy_Inside_B(desaturated)_45: 1723364686495887044
+      PixelFantasy_Inside_B(desaturated)_46: -8977718651936195557
+      PixelFantasy_Inside_B(desaturated)_47: -3293210629293406875
+      PixelFantasy_Inside_B(desaturated)_48: -6925408852051581625
+      PixelFantasy_Inside_B(desaturated)_49: 1863796888435798411
+      PixelFantasy_Inside_B(desaturated)_5: 973657982074977661
+      PixelFantasy_Inside_B(desaturated)_50: -2939965394824306721
+      PixelFantasy_Inside_B(desaturated)_51: -2164384538610438928
+      PixelFantasy_Inside_B(desaturated)_52: -741519423694368401
+      PixelFantasy_Inside_B(desaturated)_53: 6798386757516409653
+      PixelFantasy_Inside_B(desaturated)_54: -7486935048455770752
+      PixelFantasy_Inside_B(desaturated)_55: 6126030533151549199
+      PixelFantasy_Inside_B(desaturated)_6: -5828647696404918379
+      PixelFantasy_Inside_B(desaturated)_7: -2828119338437366823
+      PixelFantasy_Inside_B(desaturated)_8: -2240618690623223249
+      PixelFantasy_Inside_B(desaturated)_9: 2551243423335693550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
